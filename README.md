@@ -1,5 +1,5 @@
 # Data-Structures-Algorithms
-Here, I'll be writing all my code for my Data Structures and algorithms practice.
+Here, I'll be writing all my code for my Data Structures and algorithms practice. Time complexity is also commented.
 ## Topics to cover: 
 
 Note:- (:red_circle: - not started yet  :yellow_circle: - only implementation  :green_circle: - implementation + all questions)
