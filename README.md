@@ -2,7 +2,7 @@
 Here, I'll be writing all my code for my Data Structures and algorithms practice.
 ## Topics to cover: 
 
-###(:red_circle: - not started yet  :yellow_circle: - only implementation  :green_circle: - implementation + all questions)
+Note:- (:red_circle: - not started yet  :yellow_circle: - only implementation  :green_circle: - implementation + all questions)
 
 :green_circle:	mathematics
 
