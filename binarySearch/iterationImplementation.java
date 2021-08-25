@@ -1,4 +1,4 @@
-/* time complexity:- logn 
+/* time complexity:- O(logn) 
 auxiliary space:- O(1) */
 
 public class iterationImplementation {
