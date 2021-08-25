@@ -1,3 +1,4 @@
+/* in one traversal*/
 import java.util.Scanner;
 
 public class secondLargest2 {
