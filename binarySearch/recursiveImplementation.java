@@ -13,7 +13,7 @@ public class recursiveImplementation {
     }
 
     public static int bSearch(int [] arr,int low,int high,int x) {
-        int mid=(low+high)/2;
+        int mid=(low+(high-low))/2;
         if(low<=high) {
             if (arr[mid] == x)
                 return mid;
