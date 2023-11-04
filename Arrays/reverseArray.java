@@ -26,4 +26,17 @@ public class reverseArray {
         }
         return arr;
     }
+    //Another way
+    public static int[] reverse2(int arr[]){
+        int high= arr.length-1;
+        int low=0;
+        while(low<high){
+            //swap
+            int temp=arr[low];
+            arr[low]=arr[high];
+            arr[high]=temp;
+            high++;
+            low++;
+        }
+    }
 }
