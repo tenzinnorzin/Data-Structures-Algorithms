@@ -35,8 +35,9 @@ public class reverseArray {
             int temp=arr[low];
             arr[low]=arr[high];
             arr[high]=temp;
-            high++;
+            high--;
             low++;
         }
+        return arr;
     }
 }
